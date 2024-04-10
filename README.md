@@ -1,6 +1,6 @@
 ## Coursework of CSCI 567 - Machine Learning
 
-##### Homeworks
+#### Homeworks
 
 Homework1 74 / 85
 
@@ -17,18 +17,18 @@ Homework3-Bonus (Bonus) 15 / 15
 Homework4-Bonus (Bonus) 15 / 15
 
 
-##### Quiz
+#### Quiz
 
 Quiz 1	48.5 / 100
 
 Quiz 2  40.5 / 100
 
 
-##### Project
+#### Project
 	
 98.4 / 100
 
 
-##### Final Grade
+#### Final Grade
 
 Grade - B 
