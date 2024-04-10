@@ -2,6 +2,13 @@
 
 #### Homeworks
 
+Team Members
+
+| Name  | E-mail |
+| ------------- | ------------- |
+| Charlene Yuen  | yuenchar@usc.edu  |
+| Ritu Pravakar  | pravakar@usc.edu  |
+
 Homework1 - 74 / 85
 
 Homework2 - 58 / 75
@@ -25,6 +32,15 @@ Quiz 2 - 40.5 / 100
 
 
 #### Project
+
+Team Members
+
+| Name  | E-mail |
+| ------------- | ------------- |
+| Sreenidhi Iyengar Munimadugu   | munimadu@usc.edu  |
+| Charlene Yuen  | yuenchar@usc.edu  |
+| Mahek Savani  | msavani@usc.edu  |
+| Ritu Pravakar  | pravakar@usc.edu  |
 
 98.4 / 100
 
