@@ -2,26 +2,26 @@
 
 #### Homeworks
 
-Homework1 74 / 85
+Homework1 - 74 / 85
 
-Homework2 58 / 75
+Homework2 - 58 / 75
 
-Homework3 80 / 84
+Homework3 - 80 / 84
 
-Homework4 58.5 / 64
+Homework4 - 58.5 / 64
 
-Homework4-Q5 (Project) 15 / 16
+Homework4-Q5 (Project) - 15 / 16
 
-Homework3-Bonus (Bonus) 15 / 15
+Homework3-Bonus (Bonus) - 15 / 15
 
-Homework4-Bonus (Bonus) 15 / 15
+Homework4-Bonus (Bonus) - 15 / 15
 
 
 #### Quiz
 
-Quiz 1	48.5 / 100
+Quiz 1 - 48.5 / 100
 
-Quiz 2  40.5 / 100
+Quiz 2 - 40.5 / 100
 
 
 #### Project
